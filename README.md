@@ -1,2 +1,2 @@
 # DS5030_Labs_EJH
-Lab Repository for DS 5030
+This repository contains all of my lab work for DS 5030: Understanding Uncertainty
